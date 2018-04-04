@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://otosan.work/blog/2018/04/02/test1/</loc>
+    <lastmod>2018-04-02T22:19:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/tags/arduino/</loc>
+    <lastmod>2018-04-02T22:19:01+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/blog/</loc>
+    <lastmod>2018-04-02T22:19:01+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/categories/comaru/</loc>
+    <lastmod>2018-04-02T22:19:01+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/</loc>
+    <lastmod>2018-04-02T22:19:01+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otosan.work/tags/</loc>
+    <lastmod>2018-04-02T22:19:01+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
